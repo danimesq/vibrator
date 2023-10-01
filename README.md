@@ -1,15 +1,12 @@
-Mmh Vibrator!
+# Mmh Vibrator!
 =============
 
-Mmh Vibrator! is a Firefox OS open webapp that makes your phone sensual.
+Mmh Vibrator! is a KaiOS+FirefoxOS open webapp that makes your phone sensual.
 
-Mmh Vibrator! intends to give you relaxation and pleasure. You want to spice your
-life? Try how can vibrations feel? Try some new experiments or just give your girlfriend a good
-massage? This application is for you.
+Mmh Vibrator! intends to give you relaxation and pleasure. You want to spice your life? Try how can vibrations feel? Try some new experiments or just give your girlfriend a good massage? This application is for you.
 
 *Warning:* this will *not* transform your phone into a real vibrator.
-It will give you much less sensations. Nevertheless, you can try this app as a beginning, and buy a vibrator
-if you like it.
+It will give you much less sensations. Nevertheless, you can try this app as a beginning, and buy a vibrator if you like it.
 
 Mmh Vibrator! comes with:
 - 3 standard vibration modes (slow, medium, continue)
@@ -18,7 +15,8 @@ Mmh Vibrator! comes with:
 
 Don't hesitate to send me your feedbacks or suggestion about the app!
 
-An online version is available at http://firesex.github.io/vibrator
+An online version is available at http://danimesq.github.io/vibrator
+
 make sure to visit it with a smartphone (computers don't vibrate) from Firefox, Chrome / Chromium or Firefox OS / B2G.
 
 Explicit content
@@ -54,3 +52,6 @@ Changelog
 
 ###v1.0###
 first release
+
+###1.0.2###
+support for KaiOS
