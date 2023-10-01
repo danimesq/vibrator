@@ -1,0 +1,122 @@
+This folder: /media/daniella/B/git/Floflis/FloflisPull/vib
+
+  File: ./.folderstamp
+  Size: 59        	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 2373975     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-01 20:04:37.888775300 -0300
+Modify: 2023-10-01 20:04:37.887932000 -0300
+Change: 2023-10-01 20:04:37.887932000 -0300
+ Birth: -
+IPFS hash: QmcyKQA7En4vfHvM2eNggUatpRzHBQRebf4TRqJWdLYYyw
+------------------------------
+  File: ./.folderstamp1
+  Size: 3437      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 2373937     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-01 20:03:52.394206100 -0300
+Modify: 2023-10-01 20:03:50.192478700 -0300
+Change: 2023-10-01 20:04:33.041563800 -0300
+ Birth: -
+IPFS hash: QmY5dHjCJvQA4fECqvKWMzEiwYsNCi5Jw9gYfzoabJaTog
+------------------------------
+  File: ./500349-mmh-vibrator/500349-128.png_modified=7b9bb62d
+  Size: 15124     	Blocks: 32         IO Block: 4096   regular file
+Device: 8,20	Inode: 2373948     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-01 20:04:16.214161500 -0300
+Modify: 2014-04-19 23:57:48.000000000 -0300
+Change: 2023-10-01 20:04:02.925292500 -0300
+ Birth: -
+IPFS hash: QmbTKzELGHoX14JjdtYvjGubA1PB5poTd2rxgBryHLZXGu
+------------------------------
+  File: ./500349-mmh-vibrator/info.json
+  Size: 20636     	Blocks: 48         IO Block: 4096   regular file
+Device: 8,20	Inode: 2373971     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 14:51:58.680410200 -0300
+Modify: 2018-03-07 19:08:17.000000000 -0300
+Change: 2023-10-01 20:04:03.379525500 -0300
+ Birth: -
+IPFS hash: QmYXt6TF6W27jvuL1rAyyqseQaD7zHPocv6g1nVqzEyqdM
+------------------------------
+  File: ./500349-mmh-vibrator/manifest.webapp
+  Size: 1095      	Blocks: 8          IO Block: 4096   regular file
+Device: 8,20	Inode: 2373941     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-01 20:04:15.977054400 -0300
+Modify: 2018-03-07 19:08:18.000000000 -0300
+Change: 2023-10-01 20:04:02.535592900 -0300
+ Birth: -
+IPFS hash: QmSAU3HyR6jbGWuEmuSWLxCoKw94uaDL8ByxWwczX7qfiL
+------------------------------
+  File: ./500349-mmh-vibrator/mmh-vibrator-1.0.1.zip
+  Size: 385915    	Blocks: 760        IO Block: 4096   regular file
+Device: 8,20	Inode: 2373969     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 14:51:58.770842300 -0300
+Modify: 2014-06-06 15:19:10.000000000 -0300
+Change: 2023-10-01 20:04:03.358518500 -0300
+ Birth: -
+IPFS hash: Qmbots1unTuNZ85gHk8c6Jz64GFGqCRQ8zEfDM9s1Lj1Fx
+------------------------------
+  File: ./500349-mmh-vibrator/screenshots/135429.png_modified=1403371561
+  Size: 55286     	Blocks: 112        IO Block: 4096   regular file
+Device: 8,20	Inode: 2373947     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 14:51:34.165870300 -0300
+Modify: 2014-04-20 00:04:47.000000000 -0300
+Change: 2023-10-01 20:04:02.917723400 -0300
+ Birth: -
+IPFS hash: QmcMYLe1qK4v5geDmRuzpPGykiyt1VAqkqJptKx3dRCoSn
+------------------------------
+  File: ./500349-mmh-vibrator/screenshots/141293.png_modified=1403371562
+  Size: 74037     	Blocks: 152        IO Block: 4096   regular file
+Device: 8,20	Inode: 2373944     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 14:51:34.194276700 -0300
+Modify: 2014-06-21 14:26:01.000000000 -0300
+Change: 2023-10-01 20:04:02.812353800 -0300
+ Birth: -
+IPFS hash: QmePGbdAhuUGa3eF4sqQUZC8uA6gdy1oLV4vF4qjZHvCGd
+------------------------------
+  File: ./500349-mmh-vibrator/thumbnails/135429.png_modified=1403371561
+  Size: 16625     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 2373968     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 14:51:58.908913500 -0300
+Modify: 2014-05-07 09:46:52.000000000 -0300
+Change: 2023-10-01 20:04:02.970090400 -0300
+ Birth: -
+IPFS hash: QmT7jiKnYg4tNL1mG62jjf3VyJS25XeTuWzVj2DsMxmMzV
+------------------------------
+  File: ./500349-mmh-vibrator/thumbnails/141293.png_modified=1403371562
+  Size: 20015     	Blocks: 40         IO Block: 4096   regular file
+Device: 8,20	Inode: 2373952     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 14:51:58.953334800 -0300
+Modify: 2014-06-21 14:26:01.000000000 -0300
+Change: 2023-10-01 20:04:02.952970900 -0300
+ Birth: -
+IPFS hash: QmPhVacwd1nZXhv7R5FiEHEemvdcYfyvza9ZPfEQm93Xp8
+------------------------------
+  File: ./list to find.txt
+  Size: 237       	Blocks: 1          IO Block: 4096   regular file
+Device: 8,20	Inode: 4211208     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-09-13 04:54:32.029509900 -0300
+Modify: 2023-09-05 19:52:30.095916100 -0300
+Change: 2023-09-05 19:52:30.199055800 -0300
+ Birth: -
+IPFS hash: QmVvW5eZb56TbwXQxtUVog6quYXJKvy1JbfTFSdMNDvPGK
+------------------------------
+  File: ./mmh-vibrator-1.0.1.zip
+  Size: 385915    	Blocks: 760        IO Block: 4096   regular file
+Device: 8,20	Inode: 2373973     Links: 1
+Access: (0777/-rwxrwxrwx)  Uid: ( 1000/daniella)   Gid: ( 1000/daniella)
+Access: 2023-10-01 20:04:11.650684900 -0300
+Modify: 2014-06-06 15:19:10.000000000 -0300
+Change: 2023-10-01 20:04:08.079849100 -0300
+ Birth: -
+IPFS hash: Qmbots1unTuNZ85gHk8c6Jz64GFGqCRQ8zEfDM9s1Lj1Fx
+------------------------------
